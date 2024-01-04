@@ -26,7 +26,7 @@ The primary objective of this project is to assist users in planning and navigat
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/your-username/ACO-Metro-Mexico-City.git
+    git clone https://github.com/BraulioIAC/ACO-Metro-Mexico-City.git
     ```
 2. Install the required dependencies.
     ```bash
